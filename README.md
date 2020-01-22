@@ -1,6 +1,8 @@
 # Energy-Access-During-Natural-Disaster
 This project consists of the software component that I was responsible for of a Cyber-Physical Solar Pv-Battery-Load Management project. The other parts of the project are Hardware, Data Analysis and Prototyping. The software component mantains the communications between the different components. It stars with gathering data from the Arduino using sensors and ends with updating user via text messages. The project particularly focuses on solving the energy access problem during natural disasters using a simple nanogrid. Arduino, Python, JavaScript and html programming languages are used in this project. <br>
 
+For a schematic representation check Connectivity_186.jpg
+
 
 Steps: 
 1. To start a local server run wallflower_pico_master/wallflower_pico_server.py*
