@@ -12,4 +12,4 @@ Steps:
 
 Note: <br>
 *Wallflower.Pico (https://github.com/wallflowercc/wallflower-pico), is a Internet of Things platform with a RESTful Web API for storing and retrieving time series data (int, float, or string).<br>
-\**Twillio is used for sending text messages
+\**Twillio(https://www.twilio.com/sms) is used for sending text messages
